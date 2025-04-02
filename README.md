@@ -6,7 +6,5 @@ About Me
 📫 Check out my website at gavingarzia.com
 
 GitHub Stats
-!Your Name's GitHub stats
-
-!Top Languages
+https://github-readme-stats.vercel.app/api?username=ggarzia17&show_icons=true&theme=radical
 
