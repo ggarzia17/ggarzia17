@@ -6,5 +6,5 @@ About Me
 📫 Check out my website at gavingarzia.com
 
 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=ggarzia17&show_icons=true&theme=radical
+!(https://github-readme-stats.vercel.app/api?username=ggarzia17&show_icons=true&theme=radical)
 
