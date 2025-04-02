@@ -6,6 +6,4 @@ About Me
 
 ## GitHub Stats
 ![Gavins github stats](https://github-readme-stats.vercel.app/api?username=ggarzia17&show_icons=true&theme=radical)
-
-## Favorite Languages
 ![Gavins favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ggarzia17&layout=compact&theme=radical)
