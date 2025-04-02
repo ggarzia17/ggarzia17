@@ -4,5 +4,5 @@ About Me
 🌱 I’m currently learning Go
 📫 Check out my website at gavingarzia.com
 
-(GitHub Stats)
-!https://github-readme-stats.vercel.app/api?username=ggarzia17&show_icons=true&theme=radical
+## GitHub Stats
+![Gavins github stats](https://github-readme-stats.vercel.app/api?username=ggarzia17&show_icons=true&theme=radical)
